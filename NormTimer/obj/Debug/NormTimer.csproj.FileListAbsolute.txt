@@ -1,0 +1,10 @@
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.csprojAssemblyReference.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.Form1.resources
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.Properties.Resources.resources
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.csproj.GenerateResource.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.csproj.CoreCompileInputs.cache
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\bin\Debug\NormTimer.exe.config
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\bin\Debug\NormTimer.exe
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\bin\Debug\NormTimer.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.exe
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Debug\NormTimer.pdb
