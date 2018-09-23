@@ -7,3 +7,4 @@ C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Rele
 C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Release\NormTimer.csproj.CoreCompileInputs.cache
 C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Release\NormTimer.exe
 C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Release\NormTimer.pdb
+C:\Users\carev\OneDrive\!PROG\!visualstudio2017\С#\NormTimer\NormTimer\obj\Release\NormTimer.csprojAssemblyReference.cache

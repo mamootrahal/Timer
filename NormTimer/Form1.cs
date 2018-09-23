@@ -66,27 +66,28 @@ namespace NormTimer
         private void timer1_Tick(object sender, EventArgs e)
         {
             sec--;
-            if (sec < 0)
-            {
-                sec = 59;
-                min--;
-            }
-            label3.Text = sec.ToString();
-            if (min < 0)
-            {
-                min = 59;
-                hrs--;
-            }
-            label2.Text = min.ToString();
-            if (hrs <= 0 && min <= 0 && sec <= 0)
+            if (hrs < 0 || min < 0 || sec < 0)
             {
                 timer1.Stop();
+                sec = min = hrs = 0;
                 MessageBox.Show("ВРЕМЯ ИСТЕКЛО!",
                     "СООБЩЕНИЕ",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Warning);
             }
+            if (sec < 0)
+            {
+                sec = 59;
+                min--;
+            }
+            if (min < 0)
+            {
+                min = 59;
+                hrs--;
+            }
             label1.Text = hrs.ToString();
+            label3.Text = sec.ToString();
+            label2.Text = min.ToString();
         }
     }
 }
